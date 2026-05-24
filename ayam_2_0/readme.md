@@ -1,4 +1,4 @@
-# Ayam Lepas (Loose Chicken)
+# Ayam Lepas 
 Ayam Lepas is an interactive mixed-media installation and the sequel to a previous harvest-themed project. It explores the chaotic intersection of nature and urban spatial compression through real-time reactive audio and live 3D visual feeds.
 Deck persentation link : https://canva.link/1c6okrjl0gxkar5
 
