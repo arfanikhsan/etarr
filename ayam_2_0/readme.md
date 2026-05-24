@@ -1,6 +1,7 @@
 # Ayam Lepas 
 Ayam Lepas is an interactive mixed-media installation and the sequel to a previous harvest-themed project. It explores the chaotic intersection of nature and urban spatial compression through real-time reactive audio and live 3D visual feeds.
-Deck persentation link : https://canva.link/1c6okrjl0gxkar5
+
+Presentation deck link : https://canva.link/1c6okrjl0gxkar5
 
 ## 📖 Concept & Background
 The Prequel:
@@ -10,7 +11,7 @@ The Sequel (Ayam Lepas):
 In this second iteration, the narrative shifts to an urban environment. A chicken mistakenly enters a human space, creating chaos. Because urban areas lack wide fields, the flock roams freely in an alien atmosphere.
 
 Epistemological Layer:
-A helium-filled chicken balloon floats slightly above the enclosed room, serving as an instantiation of the chicken's aspiration to fly—a physical ability omitted by evolution and permanently denied by spatial compression.
+A helium-filled chicken balloon floats slightly above the enclosed room, serving as an instantiation of the chicken's aspiration to fly, a physical ability omitted by evolution and permanently denied by spatial compression.
 
 Audience interaction inside the room (punching, catching, rotating, or releasing the balloon) creates collective chaos. These interactions are tracked to generate reactive soundscapes that reflect how the "chicken" is being treated, which are then translated into a live 3D visualization.
 
